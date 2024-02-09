@@ -2,5 +2,5 @@ Best school#!/bin/bash
 <<<<<<< HEAD
 echo "This School is so cool!"
 =======
-echo "Best School"
+echo "Best school"
 >>>>>>> origin/update_script
